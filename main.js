@@ -40,7 +40,7 @@ const app = {
     {
       name: "Tại vì sao",
       singer: "MCK",
-      path: "./assets/music/Tại vì sao - MCK (Demo) - #goilanam.mp3",
+      path: "./assets/music/Tại vì sao - MCK (Demo).mp3",
       image: "./assets/img/5.jpg",
     },
     {
