@@ -40,7 +40,7 @@ const app = {
     {
       name: "Lần cuối",
       singer: "Ngọt",
-      path: "./assets/music/Lần Cuối ( Thắng Ngọt + Đức Bùi ).mp3",
+      path: "./assets/music/LẦN CUỐI (đi bên em xót xa người ơi).mp3",
       image: "./assets/img/5.jpg",
     },
     {
