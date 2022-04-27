@@ -26,18 +26,6 @@ const app = {
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Try",
-      singer: "Pink",
-      path: "./assets/music/[Vietsub + Lyrics] Try - P!nk.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
-      name: "Anh Thương em nhất mà",
-      singer: "LÃ Long tib",
-      path: "./assets/music/Anh Thương Em Nhất Mà- - Lã. x Log x TiB「Official Lyrics Video」 #Chang.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
       name: "the Nights",
       singer: "Avicii",
       path: "./assets/music/Avicii - The Nights.mp3",
@@ -92,21 +80,9 @@ const app = {
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Location",
-      singer: "THỊNH SUY",
-      path: "./assets/music/THỊNH SUY live -Location - Khalid- - Live Session #8.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
       name: "Tình Ca Tình Ta",
       singer: "Ta-kis",
       path: "./assets/music/Tình Ca Tình Ta-kis(Lofi Chill)Lạc Vào Chốn Yên Bình Nắng Vương Vai.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
-      name: "Unstoppable",
-      singer: "Sia",
-      path: "./assets/music/Unstoppable - Sia (Lyrics + Vietsub) ♫.mp3",
       image: "./assets/img/5.jpg",
     },
     {
