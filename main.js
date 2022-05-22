@@ -20,21 +20,21 @@ const app = {
 
   songs: [
     {
-      name: "Head In The Clouds",
-      singer: "Hayd",
-      path: "./assets/music/Hayd - Head In The Clouds (LA Sessions).mp3",
+      name: "2AM",
+      singer: "JustaTee feat Big Daddy",
+      path: "./assets/music/2AM - JustaTee feat Big Daddy Official Audio.mp3",
       image: "./assets/img/5.jpg",
     },
     {
-      name: "the Nights",
-      singer: "Avicii",
-      path: "./assets/music/Avicii - The Nights.mp3",
+      name: " Crying Over You",
+      singer: "JustaTee ft. Binz",
+      path: "./assets/music/[Official MV] Crying Over You - JustaTee ft. Binz.mp3",
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Wake Me Up",
-      singer: "Avicii",
-      path: "./assets/music/Avicii - Wake Me Up (Official Video).mp3",
+      name: "NGỦ MƠ TRÊN MÂY",
+      singer: "QNT x CASHMEL",
+      path: "./assets/music/Chillnfree - NGỦ MƠ TRÊN MÂY - QNT x CASHMEL - LIVE PERFORMANCE.mp3",
       image: "./assets/img/5.jpg",
     },
     {
@@ -50,9 +50,9 @@ const app = {
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Lần Cuối",
-      singer: "Thịnh Suy Cover",
-      path: "./assets/music/Lần Cuối ‒ Thịnh Suy Cover ♫ MV Lyrics HD - Lời Bài Hát ♫.mp3",
+      name: "She Neva Knows",
+      singer: "JustaTee",
+      path: "./assets/music/JustaTee - She Neva Knows ( Original ).mp3",
       image: "./assets/img/5.jpg",
     },
     {
@@ -62,21 +62,39 @@ const app = {
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Có em",
-      singer: "Madihu ft LowG",
+      name: "Có em (Feat. Low G)",
+      singer: "Madihu",
       path: "./assets/music/Madihu - Có em (Feat. Low G) [Official MV].mp3",
       image: "./assets/img/5.jpg",
     },
     {
-      name: "Nợ Ai Đó Lời Xin lỗi 2 (Lofi Ver.)",
-      singer: "Bozitt x Freak D",
-      path: "./assets/music/Nợ Ai Đó Lời Xin lỗi 2 (Lofi Ver.) - Bozitt x Freak D.mp3",
+      name: "Ngu Nghếch",
+      singer: "Hoàng Dũng",
+      path: "./assets/music/Ngu Nghếch (Acoustic) - Hoàng Dũng Live Session Ep.1.mp3",
       image: "./assets/img/5.jpg",
     },
     {
-      name: "ÔNG TRỜI LÀM TỘI ANH CHƯA",
-      singer: "MINH HANH x RASTZ x QNT ft. TUẤN CRY",
-      path: "./assets/music/ÔNG TRỜI LÀM TỘI ANH CHƯA - MINH HANH x RASTZ x QNT ft. TUẤN CRY.mp3",
+      name: "NO ONE ELSE (MORE THAN BLUE OST)",
+      singer: "JayKii ft Andiez",
+      path: "./assets/music/NO ONE ELSE (MORE THAN BLUE OST) - JayKii ft Andiez - Không Gian Cảm Xúc #5.mp3",
+      image: "./assets/img/5.jpg",
+    },
+    {
+      name: "Ôm Em lần Cuối (Lofi Ver.)",
+      singer: "Nit ft. Sing x Freak D",
+      path: "./assets/music/Ôm Em lần Cuối (Lofi Ver.) - Nit ft. Sing x Freak D.mp3",
+      image: "./assets/img/5.jpg",
+    },
+    {
+      name: "Location",
+      singer: "Khalid",
+      path: "./assets/music/THỊNH SUY live -Location - Khalid- - Live Session #8.mp3",
+      image: "./assets/img/5.jpg",
+    },
+    {
+      name: "Không cần phải hứa đâu em",
+      singer: "cover",
+      path: "./assets/music/v0f044gc0000c9ioaujc77ubka534hsg.mp3",
       image: "./assets/img/5.jpg",
     },
     {
