@@ -74,21 +74,9 @@ const app = {
       image: "./assets/img/5.jpg",
     },
     {
-      name: "NO ONE ELSE (MORE THAN BLUE OST)",
-      singer: "JayKii ft Andiez",
-      path: "./assets/music/NO ONE ELSE (MORE THAN BLUE OST) - JayKii ft Andiez - Không Gian Cảm Xúc #5.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
       name: "Ôm Em lần Cuối (Lofi Ver.)",
       singer: "Nit ft. Sing x Freak D",
       path: "./assets/music/Ôm Em lần Cuối (Lofi Ver.) - Nit ft. Sing x Freak D.mp3",
-      image: "./assets/img/5.jpg",
-    },
-    {
-      name: "Location",
-      singer: "Khalid",
-      path: "./assets/music/THỊNH SUY live -Location - Khalid- - Live Session #8.mp3",
       image: "./assets/img/5.jpg",
     },
     {
