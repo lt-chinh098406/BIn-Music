@@ -20,21 +20,45 @@ const app = {
 
   songs: [
     {
-      name: "Chẳng Ai Yêu Mãi Một Người",
-      singer: "NB3 Hoài Bảo x Đông Đặng",
-      path: "./assets/music/Chẳng Ai Yêu Mãi Một Người (Freak D Lofi Ver.) - NB3 Hoài Bảo x Đông Đặng.mp3",
+      name: "GHÉ QUA",
+      singer: "Dick x PC x Tofu",
+      path: "./assets/music/GHÉ QUA - OFFICIAL MV - Dick x PC x Tofu.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "GIÁ NHƯ EM NHÌN LẠI",
+      singer: "JSOL x VIRUSS - Cover- Chương Chu",
+      path: "./assets/music/GIÁ NHƯ EM NHÌN LẠI - JSOL x VIRUSS - Cover- Chương Chu.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Kẻ Cô Đơn Trong Thành Phố.",
+      singer: " Khải x Xén",
+      path: "./assets/music/Kẻ Cô Đơn Trong Thành Phố. - Khải x Xén.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Lần Cuối",
+      singer: "Thắng Ngọt + Đức Bùi",
+      path: "./assets/music/Lần Cuối ( Thắng Ngọt + Đức Bùi ).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Cafe, Thuốc Lá & Những Ngày Vui",
+      singer: "Thế Bảo",
+      path: "./assets/music/Thế Bảo - Cafe, Thuốc Lá & Những Ngày Vui (Official Lyric Video).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Trò Đùa",
+      singer: "Quang Đăng Trần",
+      path: "./assets/music/Trò Đùa - Quang Đăng Trần「Lo - Fi Version by 1 9 6 7」- Audio Lyrics.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
       name: "Dòng Thời Gian",
       singer: "Nguyễn Hải Phong",
       path: "./assets/music/Dòng Thời Gian - Nguyễn Hải Phong - Lyrics.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Em Ơi Đừng Sầu (Lofi Ver.)",
-      singer: "NB3 Hoài Bảo x Freak D",
-      path: "./assets/music/Em Ơi Đừng Sầu (Lofi Ver.) - NB3 Hoài Bảo x Freak D.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
@@ -50,25 +74,13 @@ const app = {
       image: "./assets/img/IMG_2212.JPG",
     },
     {
-      name: "THẰNG ĐIÊN",
-      singer: "JUSTATEE x PHƯƠNG LY",
-      path: "./assets/music/THẰNG ĐIÊN - JUSTATEE x PHƯƠNG LY - OFFICIAL MV.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
       name: "tiny love",
       singer: "Thịnh Suy",
       path: "./assets/music/tiny love.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
-      name: "Về Bên Anh (Lofi Ver )",
-      singer: "Jack × Mihle",
-      path: "./assets/music/Về Bên Anh (Lofi Ver ) -Jack × Mihle - Nhạc Chill Jack ..mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Ánh Sao Và Bầu Trờ",
+      name: "Ánh Sao Và Bầu Trời",
       singer: "T.R.I x Cá",
       path: "./assets/music/Ánh Sao Và Bầu Trời - T.R.I x Cá - [Official Audio].mp3",
       image: "./assets/img/IMG_2212.JPG",
@@ -83,6 +95,12 @@ const app = {
       name: "Người Lạ Thoáng Qua",
       singer: "Đinh Tùng Huy x meChill",
       path: "./assets/music/♬ Lofi Lyrics- Người Lạ Thoáng Qua - Đinh Tùng Huy x meChill.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "DIỄM XƯA",
+      singer: "HÀ LÊ",
+      path: "./assets/music/DIỄM XƯA - HÀ LÊ (#DX) - OFFICIAL LYRICS VIDEO.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
   ],
