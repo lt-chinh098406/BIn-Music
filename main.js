@@ -81,8 +81,8 @@ const app = {
     },
     {
       name: "Tuổi đá buồn",
-      singer: "NGÔ LAN HƯƠNG",
-      path: "./assets/music/NGÔ LAN HƯƠNG - 'Tuổi đá buồn' (ST- Trịnh Công Sơn) - #TRẦM SHOW.mp3",
+      singer: "JUKY SAN",
+      path: "./assets/music/JUKY SAN - tuổi đá buồn (GEN Z VÀ TRỊNH - lấy cảm hứng từ Trịnh Công Sơn & Em và Trịnh).mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
