@@ -20,6 +20,12 @@ const app = {
 
   songs: [
     {
+      name: "Còn tuổi nào cho em",
+      singer: "Thịnh Suy x Minh",
+      path: "./assets/music/Chill.- Thịnh Suy x Minh- Còn Tuổi Nào Cho Em.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
       name: "GHÉ QUA",
       singer: "Dick x PC x Tofu",
       path: "./assets/music/GHÉ QUA - OFFICIAL MV - Dick x PC x Tofu.mp3",
@@ -32,15 +38,51 @@ const app = {
       image: "./assets/img/IMG_2212.JPG",
     },
     {
+      name: "nắng thuỷ tinh",
+      singer: "HOÀNG DŨNG",
+      path: "./assets/music/HOÀNG DŨNG - nắng thuỷ tinh (GEN Z VÀ TRỊNH - lấy cảm hứng từ Trịnh Công Sơn & Em Và Trịnh).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "mưa hồng",
+      singer: "HOÀNG DUYÊN x OBITO",
+      path: "./assets/music/HOÀNG DUYÊN x OBITO - mưa hồng (GEN Z VÀ TRỊNH - lấy cảm hứng từ Trịnh Công Sơn & Em Và Trịnh).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
       name: "Kẻ Cô Đơn Trong Thành Phố.",
       singer: " Khải x Xén",
       path: "./assets/music/Kẻ Cô Đơn Trong Thành Phố. - Khải x Xén.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
-      name: "Lần Cuối",
-      singer: "Thắng Ngọt + Đức Bùi",
-      path: "./assets/music/Lần Cuối ( Thắng Ngọt + Đức Bùi ).mp3",
+      name: "diễm xưa",
+      singer: "KIÊN",
+      path: "./assets/music/KIÊN - diễm xưa (GEN Z VÀ TRỊNH - lấy cảm hứng từ Trịnh Công Sơn & Em Và Trịnh).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Mùa thu cho em",
+      singer: "KIÊN",
+      path: "./assets/music/Mùa thu cho em.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "nhìn những mùa thu đi",
+      singer: "MỸ ANH",
+      path: "./assets/music/MỸ ANH - nhìn những mùa thu đi (GEN Z VÀ TRỊNH - lấy cảm hứng từ Trịnh Công Sơn & Em và Trịnh).mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Nắng Thủy Tinh",
+      singer: "Avin Lu ft Suni Hạ Linh",
+      path: "./assets/music/Nắng Thủy Tinh - Avin Lu ft Suni Hạ Linh -- OST EM VÀ TRỊNH - Lotus.mp3",
+      image: "./assets/img/IMG_2212.JPG",
+    },
+    {
+      name: "Tuổi đá buồn",
+      singer: "NGÔ LAN HƯƠNG",
+      path: "./assets/music/NGÔ LAN HƯƠNG - 'Tuổi đá buồn' (ST- Trịnh Công Sơn) - #TRẦM SHOW.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
     {
@@ -56,51 +98,9 @@ const app = {
       image: "./assets/img/IMG_2212.JPG",
     },
     {
-      name: "Dòng Thời Gian",
-      singer: "Nguyễn Hải Phong",
-      path: "./assets/music/Dòng Thời Gian - Nguyễn Hải Phong - Lyrics.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Forget Me Now",
-      singer: "Fishy ft. Trí Dũng「Lo",
-      path: "./assets/music/Forget Me Now - Fishy ft. Trí Dũng「Lo - Fi Version by 1 9 6 7」- Audio Lyrics.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "QUERRY",
-      singer: "QNT x TRUNG TRẦN ft RPT MCK (Prod. By RASTZ)",
-      path: "./assets/music/QUERRY - QNT x TRUNG TRẦN ft RPT MCK (Prod. By RASTZ) - OFFICIAL MV.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "tiny love",
-      singer: "Thịnh Suy",
-      path: "./assets/music/tiny love.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Ánh Sao Và Bầu Trời",
-      singer: "T.R.I x Cá",
-      path: "./assets/music/Ánh Sao Và Bầu Trời - T.R.I x Cá - [Official Audio].mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Ôm Em lần Cuối (Lofi Ver.)",
-      singer: "Nit ft. Sing x Freak D",
-      path: "./assets/music/Ôm Em lần Cuối (Lofi Ver.) - Nit ft. Sing x Freak D.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "Người Lạ Thoáng Qua",
-      singer: "Đinh Tùng Huy x meChill",
-      path: "./assets/music/♬ Lofi Lyrics- Người Lạ Thoáng Qua - Đinh Tùng Huy x meChill.mp3",
-      image: "./assets/img/IMG_2212.JPG",
-    },
-    {
-      name: "DIỄM XƯA",
-      singer: "HÀ LÊ",
-      path: "./assets/music/DIỄM XƯA - HÀ LÊ (#DX) - OFFICIAL LYRICS VIDEO.mp3",
+      name: "vaicaunoicokhiennguoithaydoi",
+      singer: "GREY D x TLINH",
+      path: "./assets/music/vaicaunoicokhiennguoithaydoi - GREY D x TLINH - Official Music Video.mp3",
       image: "./assets/img/IMG_2212.JPG",
     },
   ],
