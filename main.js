@@ -20,45 +20,57 @@ const app = {
 
   songs: [
     {
-      name: "Bên trên tầng lầu",
-      singer: "Tăng Duy Tân",
-      path: "./assets/music/[BAE] Tăng Duy Tân - Bên Trên Tầng Lầu - Official Lyric Video.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
-      name: "Dẫu có lỗi lầm",
-      singer: "Bùi Anh Tuấn",
-      path: "./assets/music/20180323 Dẫu có lỗi lầm - Bùi Anh Tuấn @ Trixie Cafe&Lounge.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
-      name: " Trái tim bên lề",
-      singer: "Bùi Anh Tuấn",
-      path: "./assets/music/20180511 Trái tim bên lề - Bùi Anh Tuấn @ Trixie lounge.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
-      name: "Bắt Cóc Con Tim (Lofi Ver.)",
-      singer: "Lou Hoàng x Freak D",
-      path: "./assets/music/Bắt Cóc Con Tim (Lofi Ver.) - Lou Hoàng x Freak D.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
-      name: "Già Cùng Nhau Là Được (Lofi Ver)",
-      singer: "Tea ft.PC x Ở Đây Có Bình Yên",
-      path: "./assets/music/Già Cùng Nhau Là Được (Lofi Ver) -Tea ft.PC x Ở Đây Có Bình Yên.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
-      name: "Kẻ Cô Đơn Trong Thành Phố.",
-      singer: "Khải x Xén",
-      path: "./assets/music/Kẻ Cô Đơn Trong Thành Phố. - Khải x Xén.mp3",
-      image: "./assets/img/5.JPG",
-    },
-    {
       name: "MỘNG MƠ",
       singer: "MASEW X REDT",
       path: "./assets/music/♬ MỘNG MƠ - MASEW X REDT ( HOÀNG DƯƠNG X HHD REMIX ) - NHỚ ĐEO TAI NGHE.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Em Ổn Không",
+      singer: "Trịnh Thiên Ân x ViruSs x Láo Soái Nhi",
+      path: "./assets/music/Em Ổn Không - Trịnh Thiên Ân x ViruSs x Láo Soái Nhi「Lyrics Video」.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Gửi",
+      singer: "Reddy",
+      path: "./assets/music/Gửi - Reddy - MV Lyrics HD.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Là Ai Mang Nắng Đi Xa",
+      singer: "Yang",
+      path: "./assets/music/Là Ai Mang Nắng Đi Xa - Yang - MV Lyrics HD.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: " Thôi hẹn em",
+      singer: "Madihu",
+      path: "./assets/music/Madihu - Thôi hẹn em [Live Session].mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Mãi Chẳng Thuộc Về Nhau",
+      singer: "Bozitt",
+      path: "./assets/music/Mãi Chẳng Thuộc Về Nhau - Bozitt - MV Lyrics HD.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Những Gì Anh Nói",
+      singer: "BOZITT",
+      path: "./assets/music/Những Gì Anh Nói - BOZITT - MV Lyrics HD.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "Vì Anh Đâu Có Biết",
+      singer: "Madihu",
+      path: "./assets/music/Vì Anh Đâu Có Biết - Madihu (Feat. Vũ.) - Official MV.mp3",
+      image: "./assets/img/5.JPG",
+    },
+    {
+      name: "CƠN ĐAU",
+      singer: "WREN EVANS",
+      path: "./assets/music/WREN EVANS - CƠN ĐAU (OFFICIAL MUSIC VIDEO).mp3",
       image: "./assets/img/5.JPG",
     },
   ],
